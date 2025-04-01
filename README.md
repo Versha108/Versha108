@@ -4,7 +4,7 @@
 - 🌱 Learning and Exploring animation and designing</br>
 - 👯 I create themed web apps to stay consistent</br>
 - 📫 How to reach me: ... gversha20@gmial.com</br>
-- ⚡ Fun fact: ... Artist by Heart, Designer by Soul</br>
+- ⚡ Fun fact: ... Artist by Heart, Designer by Soul </br>
 -->
 
 
