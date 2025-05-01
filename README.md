@@ -6,7 +6,7 @@
 - 🔭 Currently a computer science student</br>
 - 🌱 Learning and Exploring animation and designing</br>
 - 👯 I create themed web apps to stay consistent</br>
-- 📫 How to reach me: ... gversha20@gmial.com</br>
+- 📫 How to reach me: ... gversha20@gmail.com</br>
 - ⚡ Fun fact: ... Artist by Heart, Designer by Soul </br>
 
 <h3 align="left">Connect with me:</h3>
