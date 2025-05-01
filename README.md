@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">#Hii there👋, I'm Versha Gautam !!</h1>
 
 - 🔭 Currently a computer science student</br>
 - 🌱 Learning and Exploring animation and designing</br>
