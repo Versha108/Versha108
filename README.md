@@ -2,7 +2,6 @@
 
 <h1 align="center">#Hii there👋, I'm Versha Gautam !!</h1>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=versha108&label=Profile%20views&color=0e75b6&style=flat" alt="versha108" /> </p>
 - 🔭 Currently a computer science student</br>
 - 🌱 Learning and Exploring animation and designing</br>
