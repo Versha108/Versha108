@@ -6,10 +6,10 @@
 - 🔭 Currently a computer science student </br>
 - 🌱 Learning and Exploring animation and designing </br>
 - 👯 I create themed web apps to stay consistent </br>
-- ⚡ Fun fact: ... Artist by Heart, Designer by Soul </br>
 - 📫 How to reach me: ... gversha20@gmail.com </br>
+- ⚡ Fun fact: ... Artist by Heart, Designer by Soul </br>
 
- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/versha-gautam-a33064228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="versha-gautam-a33064228" height="30" width="40" /></a>
