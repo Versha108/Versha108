@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
 
- <h1 align="center">#Hii there👋, I'm Versha Gautam !!</h1> 
+ <h1 align="center">#Hii there👋, I'm Versha Gautam !</h1> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=versha108&label=Profile%20views&color=0e75b6&style=flat" alt="versha108" /> </p>
 - 🔭 Currently a computer science student </br>
