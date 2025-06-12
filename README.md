@@ -7,6 +7,7 @@
 - 🌱 Learning and Exploring animation and designing </br>
 - 👯 I create themed web apps to stay consistent </br>
 - 📫 How to reach me: <a href="gversha20@gmail.com"> gversha20@gmail.com</a> </br>
+
 - ⚡ Fun fact: Artist by Heart, Designer by Soul </br>
 
 <h3 align="left">Connect with me:</h3>
