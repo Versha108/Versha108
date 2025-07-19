@@ -8,7 +8,7 @@
 - 📫 How to reach me: <a href="mailto:gversha20@gmail.com"> gversha20@gmail.com</a> </br>
 - ⚡ Fun fact: Artist by Heart, Designer by Soul </br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/versha-gautam-a33064228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="versha-gautam-a33064228" height="30" width="40" /></a>
 <a href="http://discord.com/users/1100691714613710849" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="http://discord.com/users/1100691714613710849" height="30" width="40" /></a>
