@@ -4,8 +4,8 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I'm VERSHA GAUTAM</h1>
 
-                                          V E R S H A   G A U T A M ✨
-                      Web Developer | Open Source Enthusiast | Explorer | Competitive Programmer
+                                       V E R S H A   G A U T A M ✨
+                      Web Developer | AI Enthusiast | Explorer | Competitive Programmer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=versha108&label=Profile%20views&color=0e75b6&style=flat" alt="versha108" /> </p>
 
