@@ -12,7 +12,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me: </h3>
 
 - 🎓 I had completed my Btech in Computer Science from Rammanohar Lohia Awadh Universitry, Ayodhya.
-- 
+  
 - 🌱 I’m currently learning **about advanced animations, Full-stack development and DSA**
 
 - 💬 Ask me about **React, JavaScript, Vue, GSAP & UI/UX**
