@@ -7,7 +7,7 @@
                                        V E R S H A   G A U T A M ✨
                       Web Developer | AI Enthusiast | Explorer | Competitive Programmer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=versha108&label=Profile%20views&color=0e75b6&style=flat" alt="versha108" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=versha108&label=Profile%20views&color=0e75b6&style=flat" alt="versha108" /></p>
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me: </h3>
